@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="folhadeestilo.css">
+    <title>Cadastro</title>
+</head>
+
+<body>
+    <div class="position">
+        <header>
+            <img src="Imagens/imagem.png" alt="logo" class="logo">
+            <h1>
+                Mitologia
+            </h1>
+        </header>
+    </div>
+    <div class="boxCadastro">
+        <div>
+            <form action="index.html" method="post" enctype="multipart/form-data">
+                <p class="pindex2" style="justify-self: center; font-size: 35px;">
+                    Log-in
+                </p>
+                <p class="pindex2">
+                    E-mail:<br>
+                    <input type="email" name="email" maxlength="50" size="50" required placeholder="e-mail">
+                </p>
+                <p class="pindex2">
+                    Senha:<br>
+                    <input type="password" name="senha" maxlength="50" size="50" required placeholder="Senha">
+                </p>
+
+                <button onclick="history.back()" class="enviar marginEnviar1"><- Voltar</button>
+                        <input type="submit" value="Login" class="enviar marginEnviar">
+            </form>
+        </div>
+    </div>
+</body>
+
+</html>
