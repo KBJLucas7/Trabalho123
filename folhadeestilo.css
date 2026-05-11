@@ -123,25 +123,25 @@ h2 {
 }
 
 .grega {
-    background-image: url(Imagens/CapaGrega.png);
+    background-image: url(CapaGrega.png);
     background-size: 100%;
     background-position-y: -60px;
 }
 
 .romana {
-    background-image: url(Imagens/PainelRoma.png);
+    background-image: url(PainelRoma.png);
     background-size: 100%;
     background-position-y: -130px;
 }
 
 .nordica {
-    background-image: url(Imagens/MitologiaNordica.png);
+    background-image: url(MitologiaNordica.png);
     background-size: 100%;
     background-position-y: -130px;
 }
 
 .egipcia {
-    background-image: url(Imagens/HeaderEgipcia.png);
+    background-image: url(HeaderEgipcia.png);
     background-size: 100%;
     background-position-y: -90px;
 }
