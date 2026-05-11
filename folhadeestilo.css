@@ -1,16 +1,16 @@
 @font-face {
     font-family: 'fontPrincipal';
-    src: url(fontes/GelioPasteli-zylD.ttf);
+    src: url(GelioPasteli-zylD.ttf);
 }
 
 @font-face {
     font-family: 'fontTexto';
-    src: url(fontes/Mount\ Olympus.otf);
+    src: url(Mount\ Olympus.otf);
 }
 
 @font-face {
     font-family: 'fontTexto2';
-    src: url(fontes/Romanicum\ Regular.ttf);
+    src: url(Romanicum\ Regular.ttf);
 }
 
 .caixaPrincipal {
